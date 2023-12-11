@@ -1,0 +1,19 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0
+        ]
+      ],
+      "properties": {
+        "district": "Delhi",
+        "st_code": "7",
+        "st_nm": "Delhi",
+        "dt_code": "999"
+      }
+    }
+  ]
+}

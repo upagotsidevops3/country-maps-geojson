@@ -1,0 +1,779 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "properties": {
+        "dt_code": "203",
+        "district": "West Champaran",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -3,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "properties": {
+        "dt_code": "204",
+        "district": "East Champaran",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -5,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ],
+      "properties": {
+        "dt_code": "221",
+        "district": "Sitamarhi",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            -6,
+            -17,
+            17
+          ]
+        ],
+        [
+          [
+            -8,
+            18
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "220",
+        "district": "Sheohar",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -1,
+          -10,
+          19,
+          20,
+          21,
+          22
+        ]
+      ],
+      "properties": {
+        "dt_code": "197",
+        "district": "Gopalganj",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      ],
+      "properties": {
+        "dt_code": "217",
+        "district": "Samastipur",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      ],
+      "properties": {
+        "dt_code": "201",
+        "district": "Katihar",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -24,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      ],
+      "properties": {
+        "dt_code": "202",
+        "district": "Khagaria",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ]
+      ],
+      "properties": {
+        "dt_code": "193",
+        "district": "Bhojpur",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -50,
+          50,
+          51,
+          52,
+          53,
+          54
+        ]
+      ],
+      "properties": {
+        "dt_code": "194",
+        "district": "Buxar",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -15,
+          13,
+          -13,
+          55,
+          56,
+          -37,
+          -31,
+          29,
+          -29,
+          57
+        ]
+      ],
+      "properties": {
+        "dt_code": "195",
+        "district": "Darbhanga",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -40,
+          38,
+          -38,
+          -57,
+          58,
+          59,
+          60
+        ]
+      ],
+      "properties": {
+        "dt_code": "216",
+        "district": "Saharsa",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -54,
+          61,
+          62,
+          63
+        ]
+      ],
+      "properties": {
+        "dt_code": "233",
+        "district": "Kaimur",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -49,
+          64,
+          65,
+          66,
+          62,
+          -62,
+          -53,
+          51,
+          -51
+        ]
+      ],
+      "properties": {
+        "dt_code": "215",
+        "district": "Rohtas",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76
+        ]
+      ],
+      "properties": {
+        "dt_code": "198",
+        "district": "Jamui",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -70,
+          68,
+          -68,
+          77,
+          78,
+          79
+        ]
+      ],
+      "properties": {
+        "dt_code": "190",
+        "district": "Banka",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          73,
+          -73,
+          71,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85
+        ]
+      ],
+      "properties": {
+        "dt_code": "210",
+        "district": "Nawada",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -82,
+          86,
+          87,
+          88,
+          89,
+          90
+        ]
+      ],
+      "properties": {
+        "dt_code": "196",
+        "district": "Gaya",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -43,
+          91,
+          -78,
+          -77,
+          92,
+          93,
+          94
+        ]
+      ],
+      "properties": {
+        "dt_code": "207",
+        "district": "Munger",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -27,
+          95,
+          96,
+          97
+        ]
+      ],
+      "properties": {
+        "dt_code": "224",
+        "district": "Vaishali",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -25,
+          -44,
+          -95,
+          98,
+          99
+        ]
+      ],
+      "properties": {
+        "dt_code": "191",
+        "district": "Begusarai",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -32,
+          100,
+          -79,
+          -92,
+          -42,
+          101,
+          102
+        ]
+      ],
+      "properties": {
+        "dt_code": "192",
+        "district": "Bhagalpur",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -76,
+          103,
+          104,
+          105,
+          -99,
+          93,
+          -93
+        ]
+      ],
+      "properties": {
+        "dt_code": "204",
+        "district": "Lakhisarai",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -75,
+          -86,
+          84,
+          -84,
+          106,
+          107,
+          -104
+        ]
+      ],
+      "properties": {
+        "dt_code": "219",
+        "district": "Sheikhpura",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -48,
+          108,
+          109,
+          -89,
+          110,
+          -65
+        ]
+      ],
+      "properties": {
+        "dt_code": "611",
+        "district": "Arwal",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -90,
+          -110,
+          111,
+          112
+        ]
+      ],
+      "properties": {
+        "dt_code": "199",
+        "district": "Jehanabad",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -83,
+          -91,
+          -113,
+          113,
+          -105,
+          107,
+          -107
+        ]
+      ],
+      "properties": {
+        "dt_code": "209",
+        "district": "Nalanda",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -26,
+          -100,
+          -106,
+          -114,
+          -112,
+          -109,
+          -47,
+          114,
+          -96
+        ]
+      ],
+      "properties": {
+        "dt_code": "212",
+        "district": "Patna",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -21,
+          115,
+          -97,
+          -115,
+          -46,
+          116,
+          117
+        ]
+      ],
+      "properties": {
+        "dt_code": "218",
+        "district": "Saran",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -22,
+          -118,
+          118
+        ]
+      ],
+      "properties": {
+        "dt_code": "222",
+        "district": "Siwan",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -7,
+          -18,
+          -16,
+          -58,
+          -28,
+          -98,
+          -116,
+          -20,
+          -9,
+          -19
+        ]
+      ],
+      "properties": {
+        "dt_code": "208",
+        "district": "Muzaffarpur",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -41,
+          -61,
+          119,
+          120,
+          121,
+          -102
+        ]
+      ],
+      "properties": {
+        "dt_code": "205",
+        "district": "Madhepura",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -121,
+          122,
+          123,
+          124,
+          125
+        ]
+      ],
+      "properties": {
+        "dt_code": "188",
+        "district": "Araria",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -60,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          -123,
+          -120
+        ]
+      ],
+      "properties": {
+        "dt_code": "223",
+        "district": "Supaul",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -12,
+          132,
+          -131,
+          129,
+          -129,
+          127,
+          -127,
+          -59,
+          -56
+        ]
+      ],
+      "properties": {
+        "dt_code": "206",
+        "district": "Madhubani",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -35,
+          33,
+          -33,
+          -103,
+          -122,
+          -126,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140
+        ]
+      ],
+      "properties": {
+        "dt_code": "214",
+        "district": "Purnia",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            -140,
+            141
+          ]
+        ],
+        [
+          [
+            -138,
+            142
+          ]
+        ],
+        [
+          [
+            -125,
+            143,
+            -136,
+            134,
+            -134
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "203",
+        "district": "Kishanganj",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -66,
+          -111,
+          -88,
+          144
+        ]
+      ],
+      "properties": {
+        "dt_code": "189",
+        "district": "Aurangabad",
+        "st_code": "10",
+        "st_nm": "Bihar"
+      }
+    }
+  ]
+}

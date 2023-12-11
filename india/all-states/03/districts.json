@@ -1,0 +1,492 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "properties": {
+        "dt_code": "32",
+        "district": "Gurdaspur",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -3,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          18,
+          19,
+          20,
+          21
+        ]
+      ],
+      "properties": {
+        "dt_code": "33",
+        "district": "Hoshiarpur",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -10,
+          8,
+          -8,
+          6,
+          22,
+          23,
+          24
+        ]
+      ],
+      "properties": {
+        "dt_code": "27",
+        "district": "Amritsar",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -17,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      ],
+      "properties": {
+        "dt_code": "34",
+        "district": "Jalandhar",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -24,
+          35,
+          36,
+          37,
+          38
+        ]
+      ],
+      "properties": {
+        "dt_code": "609",
+        "district": "Tarn Taran",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -14,
+          39,
+          40,
+          41,
+          42,
+          43
+        ],
+        [
+          44
+        ]
+      ],
+      "properties": {
+        "dt_code": "42",
+        "district": "Rupnagar",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -15,
+          -44,
+          45,
+          46,
+          47,
+          -29,
+          48
+        ]
+      ],
+      "properties": {
+        "dt_code": "40",
+        "district": "Shahid Bhagat Singh Nagar",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          49,
+          50,
+          51
+        ]
+      ],
+      "properties": {
+        "dt_code": "651",
+        "district": "Fazilka",
+        "st_code": "3",
+        "year": "update2014",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -31,
+          52,
+          53,
+          54,
+          55,
+          56
+        ]
+      ],
+      "properties": {
+        "dt_code": "38",
+        "district": "Moga",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -30,
+          -48,
+          46,
+          -46,
+          -43,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          -53
+        ]
+      ],
+      "properties": {
+        "dt_code": "36",
+        "district": "Ludhiana",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            -41,
+            64,
+            65,
+            66,
+            67,
+            68
+          ]
+        ],
+        [
+          [
+            -45
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "608",
+        "district": "S.A.S. Nagar",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -56,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74
+        ]
+      ],
+      "properties": {
+        "dt_code": "29",
+        "district": "Faridkot",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -42,
+          -69,
+          67,
+          -67,
+          75,
+          76,
+          77,
+          78,
+          -58
+        ]
+      ],
+      "properties": {
+        "dt_code": "30",
+        "district": "Fatehgarh Sahib",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -52,
+          79,
+          -74,
+          72,
+          -72,
+          70,
+          70,
+          80,
+          81
+        ]
+      ],
+      "properties": {
+        "dt_code": "39",
+        "district": "Sri Muktsar Sahib",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -61,
+          59,
+          -59,
+          -79,
+          82,
+          83,
+          84,
+          85
+        ]
+      ],
+      "properties": {
+        "dt_code": "43",
+        "district": "Sangrur",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -54,
+          -64,
+          62,
+          -62,
+          -86,
+          86,
+          87,
+          88,
+          89
+        ]
+      ],
+      "properties": {
+        "dt_code": "605",
+        "district": "Barnala",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -55,
+          -90,
+          88,
+          -88,
+          90,
+          91,
+          92,
+          93,
+          -81,
+          70,
+          -70
+        ]
+      ],
+      "properties": {
+        "dt_code": "28",
+        "district": "Bathinda",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -66,
+          94,
+          -83,
+          -78,
+          76,
+          -76
+        ]
+      ],
+      "properties": {
+        "dt_code": "41",
+        "district": "Patiala",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -85,
+          95,
+          -93,
+          91,
+          -91,
+          -87
+        ]
+      ],
+      "properties": {
+        "dt_code": "37",
+        "district": "Mansa",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -34,
+          32,
+          -32,
+          -57,
+          -75,
+          -80,
+          -51,
+          96,
+          -38,
+          36,
+          97
+        ]
+      ],
+      "properties": {
+        "dt_code": "31",
+        "district": "Ferozepur",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -1,
+          98
+        ]
+      ],
+      "properties": {
+        "dt_code": "662",
+        "district": "Pathankot",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            -16,
+            -49,
+            -28,
+            26,
+            -26
+          ]
+        ],
+        [
+          [
+            -6,
+            4,
+            -4,
+            -22,
+            20,
+            -20,
+            18,
+            18,
+            -18,
+            -35,
+            -98,
+            -36,
+            -23
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "35",
+        "district": "Kapurthala",
+        "st_code": "3",
+        "st_nm": "Punjab"
+      }
+    }
+  ]
+}

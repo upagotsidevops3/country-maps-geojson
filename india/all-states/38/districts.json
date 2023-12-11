@@ -1,0 +1,69 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            0
+          ]
+        ],
+        [
+          [
+            1
+          ]
+        ],
+        [
+          [
+            2
+          ],
+          [
+            3
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "465",
+        "district": "Dadra and Nagar Haveli",
+        "st_code": "38",
+        "st_nm": "Dadra and Nagar Haveli and Daman and Diu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          4
+        ]
+      ],
+      "properties": {
+        "dt_code": "463",
+        "district": "Daman",
+        "st_code": "38",
+        "st_nm": "Dadra and Nagar Haveli and Daman and Diu"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            5
+          ]
+        ],
+        [
+          [
+            6
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "464",
+        "district": "Diu",
+        "st_code": "38",
+        "st_nm": "Dadra and Nagar Haveli and Daman and Diu"
+      }
+    }
+  ]
+}

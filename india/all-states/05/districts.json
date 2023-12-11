@@ -1,0 +1,239 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "properties": {
+        "dt_code": "57",
+        "district": "Uttarkashi",
+        "st_code": "5",
+        "st_nm": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -1,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "properties": {
+        "dt_code": "47",
+        "district": "Chamoli",
+        "st_code": "5",
+        "st_nm": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -4,
+          11,
+          12,
+          13,
+          14
+        ]
+      ],
+      "properties": {
+        "dt_code": "49",
+        "district": "Dehradun",
+        "st_code": "5",
+        "st_nm": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -3,
+          15,
+          16,
+          -12
+        ]
+      ],
+      "properties": {
+        "dt_code": "55",
+        "district": "Tehri Garhwal",
+        "st_code": "5",
+        "st_nm": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -2,
+          -11,
+          17,
+          -16
+        ]
+      ],
+      "properties": {
+        "dt_code": "54",
+        "district": "Rudraprayag",
+        "st_code": "5",
+        "st_nm": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -7,
+          18,
+          19,
+          20,
+          21
+        ]
+      ],
+      "properties": {
+        "dt_code": "53",
+        "district": "Pithoragarh",
+        "st_code": "5",
+        "st_nm": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -8,
+          -22,
+          22
+        ]
+      ],
+      "properties": {
+        "dt_code": "46",
+        "district": "Bageshwar",
+        "st_code": "5",
+        "st_nm": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -14,
+          23,
+          24,
+          25
+        ]
+      ],
+      "properties": {
+        "dt_code": "50",
+        "district": "Haridwar",
+        "st_code": "5",
+        "st_nm": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -10,
+          26,
+          27,
+          28,
+          -25,
+          23,
+          -13,
+          -17,
+          -18
+        ]
+      ],
+      "properties": {
+        "dt_code": "52",
+        "district": "Pauri Garhwal",
+        "st_code": "5",
+        "st_nm": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -9,
+          -23,
+          -21,
+          29,
+          30,
+          -27
+        ]
+      ],
+      "properties": {
+        "dt_code": "45",
+        "district": "Almora",
+        "st_code": "5",
+        "st_nm": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -28,
+          -31,
+          31,
+          32,
+          33
+        ]
+      ],
+      "properties": {
+        "dt_code": "51",
+        "district": "Nainital",
+        "st_code": "5",
+        "st_nm": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -20,
+          34,
+          35,
+          -32,
+          -30
+        ]
+      ],
+      "properties": {
+        "dt_code": "48",
+        "district": "Champawat",
+        "st_code": "5",
+        "st_nm": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -33,
+          -36,
+          36
+        ]
+      ],
+      "properties": {
+        "dt_code": "067",
+        "district": "Udham Singh Nagar",
+        "st_code": "05",
+        "st_nm": "Uttarakhand"
+      }
+    }
+  ]
+}

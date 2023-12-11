@@ -1,0 +1,208 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "properties": {
+        "dt_code": "247",
+        "district": "Mon",
+        "st_code": "13",
+        "st_nm": "Nagaland"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          5,
+          -4,
+          2,
+          -2,
+          6,
+          7
+        ]
+      ],
+      "properties": {
+        "dt_code": "615",
+        "district": "Longleng",
+        "st_code": "13",
+        "st_nm": "Nagaland"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -8,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "properties": {
+        "dt_code": "246",
+        "district": "Mokokchung",
+        "st_code": "13",
+        "st_nm": "Nagaland"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -7,
+          -1,
+          12,
+          13,
+          14,
+          -9
+        ]
+      ],
+      "properties": {
+        "dt_code": "249",
+        "district": "Tuensang",
+        "st_code": "13",
+        "st_nm": "Nagaland"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -14,
+          15,
+          16,
+          17
+        ]
+      ],
+      "properties": {
+        "dt_code": "614",
+        "district": "Kiphire",
+        "st_code": "13",
+        "st_nm": "Nagaland"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          18,
+          19,
+          20
+        ]
+      ],
+      "properties": {
+        "dt_code": "613",
+        "district": "Peren",
+        "st_code": "13",
+        "st_nm": "Nagaland"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -11,
+          21,
+          22,
+          23,
+          24
+        ]
+      ],
+      "properties": {
+        "dt_code": "250",
+        "district": "Wokha",
+        "st_code": "13",
+        "st_nm": "Nagaland"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -10,
+          -15,
+          -18,
+          25,
+          26,
+          27,
+          28,
+          29,
+          -22
+        ]
+      ],
+      "properties": {
+        "dt_code": "251",
+        "district": "Zunheboto",
+        "st_code": "13",
+        "st_nm": "Nagaland"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          30,
+          31,
+          -28,
+          26,
+          -26,
+          -17
+        ]
+      ],
+      "properties": {
+        "dt_code": "248",
+        "district": "Phek",
+        "st_code": "13",
+        "st_nm": "Nagaland"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -20,
+          32,
+          -23,
+          -30,
+          28,
+          -32,
+          33
+        ]
+      ],
+      "properties": {
+        "dt_code": "245",
+        "district": "Kohima",
+        "st_code": "13",
+        "st_nm": "Nagaland"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -24,
+          -33,
+          -19,
+          34
+        ]
+      ],
+      "properties": {
+        "dt_code": "244",
+        "district": "Dimapur",
+        "st_code": "13",
+        "st_nm": "Nagaland"
+      }
+    }
+  ]
+}

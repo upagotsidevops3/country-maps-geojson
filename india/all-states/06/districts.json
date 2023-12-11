@@ -1,0 +1,449 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "properties": {
+        "dt_code": "64",
+        "district": "Jhajjar",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -3,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      ],
+      "properties": {
+        "dt_code": "62",
+        "district": "Gurugram",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -11,
+          9,
+          14,
+          15,
+          16
+        ]
+      ],
+      "properties": {
+        "dt_code": "60",
+        "district": "Faridabad",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      ],
+      "properties": {
+        "dt_code": "69",
+        "district": "Mahendragarh",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -4,
+          -14,
+          23,
+          24,
+          -22,
+          25,
+          26
+        ]
+      ],
+      "properties": {
+        "dt_code": "72",
+        "district": "Rewari",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -13,
+          27,
+          28,
+          -24
+        ]
+      ],
+      "properties": {
+        "dt_code": "604",
+        "district": "Nuh",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -12,
+          -17,
+          15,
+          29,
+          -28
+        ]
+      ],
+      "properties": {
+        "dt_code": "619",
+        "district": "Palwal",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -7,
+          5,
+          -5,
+          26,
+          -26,
+          -21,
+          19,
+          -19,
+          30,
+          31
+        ]
+      ],
+      "properties": {
+        "dt_code": "765",
+        "district": "Charkhi Dadri",
+        "st_code": "06",
+        "year": "2016_c",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
+      ],
+      "properties": {
+        "dt_code": "76",
+        "district": "Yamunanagar",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -36,
+          34,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      ],
+      "properties": {
+        "dt_code": "68",
+        "district": "Kurukshetra",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -39,
+          43,
+          44,
+          45,
+          46,
+          47
+        ]
+      ],
+      "properties": {
+        "dt_code": "66",
+        "district": "Kaithal",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          48,
+          49,
+          50
+        ]
+      ],
+      "properties": {
+        "dt_code": "74",
+        "district": "Sirsa",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -34,
+          51,
+          52,
+          53,
+          54,
+          55,
+          -44,
+          -38
+        ]
+      ],
+      "properties": {
+        "dt_code": "67",
+        "district": "Karnal",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -47,
+          45,
+          -45,
+          -56,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61
+        ]
+      ],
+      "properties": {
+        "dt_code": "65",
+        "district": "Jind",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -49,
+          62,
+          -61,
+          63,
+          64
+        ]
+      ],
+      "properties": {
+        "dt_code": "61",
+        "district": "Fatehabad",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -60,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          -64
+        ]
+      ],
+      "properties": {
+        "dt_code": "63",
+        "district": "Hisar",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -55,
+          53,
+          -53,
+          72,
+          73,
+          -57
+        ]
+      ],
+      "properties": {
+        "dt_code": "71",
+        "district": "Panipat",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -1,
+          74,
+          -58,
+          -74,
+          75
+        ]
+      ],
+      "properties": {
+        "dt_code": "75",
+        "district": "Sonipat",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -18,
+          76,
+          -71,
+          69,
+          -69,
+          77,
+          -31
+        ]
+      ],
+      "properties": {
+        "dt_code": "59",
+        "district": "Bhiwani",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -8,
+          -32,
+          -78,
+          -68,
+          66,
+          -66,
+          -59,
+          -75
+        ]
+      ],
+      "properties": {
+        "dt_code": "73",
+        "district": "Rohtak",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            78,
+            79
+          ]
+        ],
+        [
+          [
+            80,
+            81
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "70",
+        "district": "Panchkula",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            -41,
+            82
+          ]
+        ],
+        [
+          [
+            -37,
+            -43,
+            83,
+            -80,
+            84,
+            -81,
+            85
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "58",
+        "district": "Ambala",
+        "st_code": "6",
+        "st_nm": "Haryana"
+      }
+    }
+  ]
+}

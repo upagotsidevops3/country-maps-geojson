@@ -1,0 +1,1169 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          1,
+          2,
+          3
+        ]
+      ],
+      "properties": {
+        "dt_code": "397",
+        "district": "Burhanpur",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "properties": {
+        "dt_code": "428",
+        "district": "Seoni",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      ],
+      "properties": {
+        "dt_code": "639",
+        "district": "Alirajpur",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -8,
+          18,
+          19,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      ],
+      "properties": {
+        "dt_code": "399",
+        "district": "Chhindwara",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      ],
+      "properties": {
+        "dt_code": "408",
+        "district": "Harda",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -3,
+          1,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ]
+      ],
+      "properties": {
+        "dt_code": "414",
+        "district": "Khargone",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -4,
+          -46,
+          46,
+          -32,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      ],
+      "properties": {
+        "dt_code": "466",
+        "district": "Khandwa",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -6,
+          54,
+          55,
+          56
+        ]
+      ],
+      "properties": {
+        "dt_code": "392",
+        "district": "Balaghat",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -14,
+          57,
+          -40,
+          58,
+          59
+        ]
+      ],
+      "properties": {
+        "dt_code": "393",
+        "district": "Barwani",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            -53,
+            60
+          ]
+        ],
+        [
+          [
+            -51,
+            61
+          ]
+        ],
+        [
+          [
+            -23,
+            21,
+            -21,
+            19,
+            62,
+            -48,
+            -31,
+            63,
+            64,
+            65
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "394",
+        "district": "Betul",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          66,
+          67,
+          68,
+          68,
+          69,
+          70,
+          71,
+          72
+        ]
+      ],
+      "properties": {
+        "dt_code": "417",
+        "district": "Morena",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -67,
+          73,
+          74,
+          75,
+          76,
+          77
+        ]
+      ],
+      "properties": {
+        "dt_code": "395",
+        "district": "Bhind",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -70,
+          68,
+          68,
+          -68,
+          -78,
+          78,
+          79,
+          80,
+          80,
+          81,
+          82,
+          83
+        ]
+      ],
+      "properties": {
+        "dt_code": "407",
+        "district": "Gwalior",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -72,
+          84,
+          84,
+          85,
+          86,
+          87
+        ]
+      ],
+      "properties": {
+        "dt_code": "431",
+        "district": "Sheopur",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -71,
+          -84,
+          82,
+          -82,
+          80,
+          80,
+          -80,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          86,
+          -86,
+          84,
+          84
+        ]
+      ],
+      "properties": {
+        "dt_code": "432",
+        "district": "Shivpuri",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          104,
+          105,
+          106,
+          107
+        ]
+      ],
+      "properties": {
+        "dt_code": "434",
+        "district": "Tikamgarh",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          108,
+          109,
+          110
+        ]
+      ],
+      "properties": {
+        "dt_code": "419",
+        "district": "Neemuch",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          111,
+          112,
+          113,
+          114,
+          115
+        ]
+      ],
+      "properties": {
+        "dt_code": "424",
+        "district": "Rewa",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -114,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123
+        ]
+      ],
+      "properties": {
+        "dt_code": "426",
+        "district": "Satna",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -103,
+          124,
+          125,
+          126,
+          127,
+          128
+        ]
+      ],
+      "properties": {
+        "dt_code": "406",
+        "district": "Guna",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -102,
+          129,
+          130,
+          131,
+          -125
+        ]
+      ],
+      "properties": {
+        "dt_code": "391",
+        "district": "Ashoknagar",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -109,
+          132,
+          133,
+          134
+        ]
+      ],
+      "properties": {
+        "dt_code": "416",
+        "district": "Mandsaur",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -112,
+          135,
+          136
+        ]
+      ],
+      "properties": {
+        "dt_code": "638",
+        "district": "Singrauli",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -113,
+          -137,
+          137,
+          138,
+          -117
+        ]
+      ],
+      "properties": {
+        "dt_code": "433",
+        "district": "Sidhi",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -131,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152
+        ]
+      ],
+      "properties": {
+        "dt_code": "425",
+        "district": "Sagar",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -142,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159
+        ]
+      ],
+      "properties": {
+        "dt_code": "400",
+        "district": "Damoh",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          160,
+          161,
+          162,
+          163,
+          164
+        ]
+      ],
+      "properties": {
+        "dt_code": "430",
+        "district": "Shajapur",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -126,
+          -132,
+          -153,
+          151,
+          -151,
+          165,
+          166,
+          167,
+          168
+        ]
+      ],
+      "properties": {
+        "dt_code": "437",
+        "district": "Vidisha",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -128,
+          169,
+          170,
+          -165,
+          171,
+          172
+        ]
+      ],
+      "properties": {
+        "dt_code": "422",
+        "district": "Rajgarh",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -118,
+          -139,
+          173,
+          174,
+          175,
+          176
+        ]
+      ],
+      "properties": {
+        "dt_code": "429",
+        "district": "Shahdol",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -122,
+          120,
+          -120,
+          177,
+          178,
+          179,
+          180,
+          181,
+          -158,
+          182
+        ]
+      ],
+      "properties": {
+        "dt_code": "413",
+        "district": "Katni",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -119,
+          -177,
+          183,
+          184,
+          185,
+          -178
+        ]
+      ],
+      "properties": {
+        "dt_code": "436",
+        "district": "Umaria",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -134,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191
+        ]
+      ],
+      "properties": {
+        "dt_code": "423",
+        "district": "Ratlam",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -127,
+          -169,
+          192,
+          193,
+          -170
+        ]
+      ],
+      "properties": {
+        "dt_code": "396",
+        "district": "Bhopal",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -163,
+          194,
+          195,
+          196,
+          -188,
+          197,
+          198,
+          199,
+          200
+        ]
+      ],
+      "properties": {
+        "dt_code": "435",
+        "district": "Ujjain",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -150,
+          148,
+          -148,
+          146,
+          -146,
+          201,
+          202,
+          203,
+          204,
+          205,
+          -193,
+          -168,
+          166,
+          -166
+        ]
+      ],
+      "properties": {
+        "dt_code": "421",
+        "district": "Raisen",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -37,
+          206,
+          207,
+          208,
+          209,
+          210,
+          -161,
+          -171,
+          -194,
+          -206,
+          211
+        ]
+      ],
+      "properties": {
+        "dt_code": "427",
+        "district": "Sehore",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -12,
+          212,
+          -159,
+          -182,
+          180,
+          -180,
+          178,
+          -186,
+          213,
+          214,
+          215,
+          216
+        ]
+      ],
+      "properties": {
+        "dt_code": "411",
+        "district": "Jabalpur",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          35,
+          -35,
+          33,
+          -33,
+          -47,
+          -45,
+          217,
+          218,
+          219,
+          -195,
+          -162,
+          -211,
+          209,
+          -209,
+          207,
+          -207
+        ]
+      ],
+      "properties": {
+        "dt_code": "402",
+        "district": "Dewas",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -176,
+          174,
+          174,
+          220,
+          221,
+          -184
+        ]
+      ],
+      "properties": {
+        "dt_code": "390",
+        "district": "Anuppur",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -18,
+          16,
+          -16,
+          222,
+          -190,
+          223,
+          224
+        ]
+      ],
+      "properties": {
+        "dt_code": "412",
+        "district": "Jhabua",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -185,
+          -222,
+          225,
+          226,
+          -214
+        ]
+      ],
+      "properties": {
+        "dt_code": "404",
+        "district": "Dindori",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -11,
+          9,
+          -9,
+          -30,
+          28,
+          -28,
+          227,
+          -204,
+          202,
+          -202,
+          -145,
+          143,
+          -143,
+          -160,
+          -213
+        ]
+      ],
+      "properties": {
+        "dt_code": "418",
+        "district": "Narsinghpur",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -13,
+          224,
+          -224,
+          -189,
+          -197,
+          228,
+          229,
+          229,
+          230,
+          -41,
+          -58
+        ]
+      ],
+      "properties": {
+        "dt_code": "403",
+        "district": "Dhar",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -44,
+          42,
+          -42,
+          -231,
+          229,
+          229,
+          -229,
+          -196,
+          -220,
+          218,
+          -218
+        ]
+      ],
+      "properties": {
+        "dt_code": "410",
+        "district": "Indore",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -5,
+          -217,
+          215,
+          -215,
+          -227,
+          231,
+          55,
+          -55
+        ]
+      ],
+      "properties": {
+        "dt_code": "415",
+        "district": "Mandla",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -27,
+          25,
+          -25,
+          23,
+          -66,
+          64,
+          -64,
+          -38,
+          -212,
+          -205,
+          -228
+        ]
+      ],
+      "properties": {
+        "dt_code": "409",
+        "district": "Hoshangabad",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -164,
+          -201,
+          199,
+          -199,
+          232,
+          -172
+        ]
+      ],
+      "properties": {
+        "dt_code": "667",
+        "district": "Agar Malwa",
+        "st_code": "23",
+        "year": "update2014",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            -100,
+            233
+          ]
+        ],
+        [
+          [
+            -98,
+            234
+          ]
+        ],
+        [
+          [
+            -95,
+            235
+          ]
+        ],
+        [
+          [
+            -93,
+            236
+          ]
+        ],
+        [
+          [
+            -91,
+            237
+          ]
+        ],
+        [
+          [
+            -77,
+            75,
+            -75,
+            238,
+            -89,
+            -79
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "401",
+        "district": "Datia",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -106,
+          239,
+          240,
+          241,
+          242,
+          243,
+          -154,
+          -141,
+          244,
+          245,
+          245
+        ],
+        [
+          246
+        ]
+      ],
+      "properties": {
+        "dt_code": "398",
+        "district": "Chhatarpur",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            -123,
+            -183,
+            -157,
+            155,
+            -155,
+            -244,
+            247
+          ]
+        ],
+        [
+          [
+            -241,
+            248
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "420",
+        "district": "Panna",
+        "st_code": "23",
+        "st_nm": "Madhya Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -108,
+          249
+        ]
+      ],
+      "properties": {
+        "dt_code": "722",
+        "district": "Niwari",
+        "st_code": "23",
+        "year": "2018",
+        "st_nm": "Madhya Pradesh"
+      }
+    }
+  ]
+}

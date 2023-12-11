@@ -1,0 +1,700 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "properties": {
+        "district": "Thiruvallur",
+        "st_code": "33",
+        "dt_code": "589",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -1,
+          5,
+          6
+        ]
+      ],
+      "properties": {
+        "district": "Chennai",
+        "st_code": "33",
+        "dt_code": "568",
+        "year": "2018",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "properties": {
+        "district": "Krishnagiri",
+        "st_code": "33",
+        "dt_code": "577",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -8,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      ],
+      "properties": {
+        "district": "Tiruvannamalai",
+        "st_code": "33",
+        "dt_code": "593",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -9,
+          -19,
+          19,
+          20,
+          21
+        ]
+      ],
+      "properties": {
+        "district": "Dharmapuri",
+        "st_code": "33",
+        "dt_code": "571",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      ],
+      "properties": {
+        "district": "Salem",
+        "st_code": "33",
+        "dt_code": "584",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -27,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      ],
+      "properties": {
+        "district": "Erode",
+        "st_code": "33",
+        "dt_code": "573",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -32,
+          33,
+          34
+        ]
+      ],
+      "properties": {
+        "district": "Nilgiris",
+        "st_code": "33",
+        "dt_code": "611",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -26,
+          35,
+          36,
+          -28
+        ]
+      ],
+      "properties": {
+        "district": "Namakkal",
+        "st_code": "33",
+        "dt_code": "580",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -24,
+          37,
+          38,
+          39,
+          40
+        ]
+      ],
+      "properties": {
+        "district": "Perambalur",
+        "st_code": "33",
+        "dt_code": "581",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -31,
+          41,
+          42,
+          -34
+        ]
+      ],
+      "properties": {
+        "district": "Coimbatore",
+        "st_code": "33",
+        "dt_code": "569",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -25,
+          -41,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          -36
+        ]
+      ],
+      "properties": {
+        "district": "Tiruchirappalli",
+        "st_code": "33",
+        "dt_code": "591",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -40,
+          50,
+          51,
+          -44
+        ]
+      ],
+      "properties": {
+        "district": "Ariyalur",
+        "st_code": "33",
+        "dt_code": "610",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -30,
+          52,
+          53,
+          54,
+          -42
+        ]
+      ],
+      "properties": {
+        "district": "Tiruppur",
+        "st_code": "33",
+        "dt_code": "634",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -45,
+          -52,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60
+        ]
+      ],
+      "properties": {
+        "district": "Thanjavur",
+        "st_code": "33",
+        "dt_code": "586",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -29,
+          -37,
+          -50,
+          61,
+          -53
+        ]
+      ],
+      "properties": {
+        "district": "Karur",
+        "st_code": "33",
+        "dt_code": "576",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -58,
+          62,
+          63,
+          64
+        ]
+      ],
+      "properties": {
+        "district": "Thiruvarur",
+        "st_code": "33",
+        "dt_code": "590",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -49,
+          65,
+          66,
+          67,
+          -54,
+          -62
+        ]
+      ],
+      "properties": {
+        "district": "Dindigul",
+        "st_code": "33",
+        "dt_code": "572",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -48,
+          68,
+          69,
+          70,
+          -66
+        ]
+      ],
+      "properties": {
+        "district": "Madurai",
+        "st_code": "33",
+        "dt_code": "578",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -67,
+          -71,
+          71,
+          72
+        ]
+      ],
+      "properties": {
+        "district": "Theni",
+        "st_code": "33",
+        "dt_code": "588",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -70,
+          73,
+          74,
+          75,
+          76,
+          77,
+          -72
+        ]
+      ],
+      "properties": {
+        "district": "Virudhunagar",
+        "st_code": "33",
+        "dt_code": "597",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -76,
+          78,
+          79,
+          80,
+          81
+        ]
+      ],
+      "properties": {
+        "district": "Thoothukkudi",
+        "st_code": "33",
+        "dt_code": "627",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          82,
+          83
+        ]
+      ],
+      "properties": {
+        "district": "Kanyakumari",
+        "st_code": "33",
+        "dt_code": "629",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -17,
+          84,
+          85,
+          86,
+          87
+        ],
+        [
+          88
+        ],
+        [
+          89
+        ]
+      ],
+      "properties": {
+        "district": "Viluppuram",
+        "st_code": "33",
+        "dt_code": "607",
+        "year": "2019",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -39,
+          90,
+          -87,
+          91,
+          92,
+          -56,
+          -51
+        ]
+      ],
+      "properties": {
+        "district": "Cuddalore",
+        "st_code": "33",
+        "dt_code": "570",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -46,
+          -61,
+          93,
+          94,
+          95
+        ]
+      ],
+      "properties": {
+        "district": "Pudukkottai",
+        "st_code": "33",
+        "dt_code": "582",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -47,
+          -96,
+          96,
+          -74,
+          -69
+        ]
+      ],
+      "properties": {
+        "district": "Sivaganga",
+        "st_code": "33",
+        "dt_code": "585",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -75,
+          -97,
+          -95,
+          97,
+          -79
+        ]
+      ],
+      "properties": {
+        "district": "Ramanathapuram",
+        "st_code": "33",
+        "dt_code": "583",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            -59,
+            -65,
+            98
+          ]
+        ],
+        [
+          [
+            -57,
+            -93,
+            99,
+            -63
+          ]
+        ]
+      ],
+      "properties": {
+        "district": "Nagapattinam",
+        "st_code": "33",
+        "dt_code": "579",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -18,
+          -88,
+          -91,
+          -38,
+          -23,
+          -20
+        ]
+      ],
+      "properties": {
+        "district": "Kallakurichi",
+        "st_code": "33",
+        "dt_code": "729",
+        "year": "2019",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -77,
+          -82,
+          100,
+          101
+        ]
+      ],
+      "properties": {
+        "district": "Tenkasi",
+        "st_code": "33",
+        "dt_code": "733",
+        "year": "2019",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -81,
+          102,
+          -84,
+          103,
+          -101
+        ]
+      ],
+      "properties": {
+        "district": "Tirunelveli",
+        "st_code": "33",
+        "dt_code": "592",
+        "year": "2019",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -13,
+          104,
+          105,
+          106
+        ]
+      ],
+      "properties": {
+        "district": "Vellore",
+        "st_code": "33",
+        "dt_code": "595",
+        "year": "2019",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -4,
+          107,
+          -14,
+          -107,
+          108
+        ]
+      ],
+      "properties": {
+        "district": "Ranipet",
+        "st_code": "33",
+        "dt_code": "731",
+        "year": "2019",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -11,
+          109,
+          -105,
+          -12
+        ]
+      ],
+      "properties": {
+        "district": "Tirupathur",
+        "st_code": "33",
+        "dt_code": "732",
+        "year": "2019",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -3,
+          110,
+          -15,
+          -108
+        ]
+      ],
+      "properties": {
+        "district": "Kanchipuram",
+        "st_code": "33",
+        "dt_code": "574",
+        "year": "2019",
+        "st_nm": "Tamil Nadu"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -2,
+          -7,
+          111,
+          -85,
+          -16,
+          -111
+        ]
+      ],
+      "properties": {
+        "district": "Chengalpattu",
+        "st_code": "33",
+        "dt_code": "730",
+        "year": "2019",
+        "st_nm": "Tamil Nadu"
+      }
+    }
+  ]
+}

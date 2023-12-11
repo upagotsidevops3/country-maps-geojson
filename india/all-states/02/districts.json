@@ -1,0 +1,238 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "properties": {
+        "dt_code": "025",
+        "district": "Lahaul and Spiti",
+        "st_code": "02",
+        "st_nm": "Himachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -5,
+          3,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "properties": {
+        "dt_code": "16",
+        "district": "Chamba",
+        "st_code": "2",
+        "st_nm": "Himachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -3,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          -11,
+          9,
+          -9,
+          7,
+          -7
+        ]
+      ],
+      "properties": {
+        "dt_code": "18",
+        "district": "Kangra",
+        "st_code": "2",
+        "st_nm": "Himachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -2,
+          19,
+          20,
+          21,
+          -13
+        ]
+      ],
+      "properties": {
+        "dt_code": "20",
+        "district": "Kullu",
+        "st_code": "2",
+        "st_nm": "Himachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -14,
+          -22,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      ],
+      "properties": {
+        "dt_code": "22",
+        "district": "Mandi",
+        "st_code": "2",
+        "st_nm": "Himachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -1,
+          27,
+          28,
+          -20
+        ]
+      ],
+      "properties": {
+        "dt_code": "19",
+        "district": "Kinnaur",
+        "st_code": "2",
+        "st_nm": "Himachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -18,
+          16,
+          -16,
+          29,
+          30,
+          31
+        ]
+      ],
+      "properties": {
+        "dt_code": "26",
+        "district": "Una",
+        "st_code": "2",
+        "st_nm": "Himachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -21,
+          -29,
+          32,
+          33,
+          34,
+          35,
+          36,
+          -23
+        ]
+      ],
+      "properties": {
+        "dt_code": "23",
+        "district": "Shimla",
+        "st_code": "2",
+        "st_nm": "Himachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -24,
+          36,
+          -36,
+          37,
+          38,
+          39,
+          40
+        ]
+      ],
+      "properties": {
+        "dt_code": "25",
+        "district": "Solan",
+        "st_code": "2",
+        "st_nm": "Himachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -35,
+          41,
+          -38
+        ]
+      ],
+      "properties": {
+        "dt_code": "24",
+        "district": "Sirmaur",
+        "st_code": "2",
+        "st_nm": "Himachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -15,
+          -27,
+          42,
+          -30
+        ]
+      ],
+      "properties": {
+        "dt_code": "17",
+        "district": "Hamirpur",
+        "st_code": "2",
+        "st_nm": "Himachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          25,
+          -25,
+          -41,
+          43,
+          -31,
+          -43
+        ]
+      ],
+      "properties": {
+        "dt_code": "15",
+        "district": "Bilaspur",
+        "st_code": "2",
+        "st_nm": "Himachal Pradesh"
+      }
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "properties": {
+        "dt_code": "717",
+        "district": "Kamjong",
+        "st_nm": "Manipur",
+        "st_code": "14",
+        "year": "2016_c"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "properties": {
+        "dt_code": "257",
+        "district": "Senapati",
+        "st_nm": "Manipur",
+        "st_code": "14"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          9,
+          10,
+          11,
+          12,
+          13,
+          -7,
+          14
+        ]
+      ],
+      "properties": {
+        "dt_code": "258",
+        "district": "Tamenglong",
+        "st_nm": "Manipur",
+        "st_code": "14"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      ],
+      "properties": {
+        "dt_code": "256",
+        "district": "Imphal West",
+        "st_nm": "Manipur",
+        "st_code": "14"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          18,
+          -18,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      ],
+      "properties": {
+        "dt_code": "711",
+        "district": "Kakching",
+        "st_nm": "Manipur",
+        "st_code": "14",
+        "year": "2016_c"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            -20,
+            -32,
+            32,
+            33,
+            34
+          ]
+        ],
+        [
+          [
+            -30,
+            35
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "252",
+        "district": "Bishnupur",
+        "st_nm": "Manipur",
+        "st_code": "14"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -28,
+          26,
+          -26,
+          36,
+          37,
+          38
+        ]
+      ],
+      "properties": {
+        "dt_code": "253",
+        "district": "Chandel",
+        "st_nm": "Manipur",
+        "st_code": "14"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -39,
+          39,
+          40,
+          41,
+          -33,
+          -31,
+          -36,
+          -29
+        ]
+      ],
+      "properties": {
+        "dt_code": "254",
+        "district": "Churachandpur",
+        "st_nm": "Manipur",
+        "st_code": "14"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -16,
+          42,
+          43,
+          44,
+          45
+        ]
+      ],
+      "properties": {
+        "dt_code": "255",
+        "district": "Imphal East",
+        "st_nm": "Manipur",
+        "st_code": "14"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -13,
+          11,
+          46,
+          47,
+          48
+        ]
+      ],
+      "properties": {
+        "dt_code": "713",
+        "district": "Jiribam",
+        "st_nm": "Manipur",
+        "st_code": "14",
+        "year": "2016_c"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -1,
+          49,
+          50,
+          -45,
+          43,
+          -43,
+          -21,
+          -35,
+          51,
+          52,
+          -15,
+          -6,
+          53,
+          54,
+          55
+        ]
+      ],
+      "properties": {
+        "dt_code": "712",
+        "district": "Kangpokpi",
+        "st_nm": "Manipur",
+        "st_code": "14",
+        "year": "2016_c"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -17,
+          -46,
+          -51,
+          56,
+          -24,
+          22,
+          -22
+        ]
+      ],
+      "properties": {
+        "dt_code": "259",
+        "district": "Thoubal",
+        "st_nm": "Manipur",
+        "st_code": "14"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -5,
+          3,
+          57,
+          -37,
+          -25,
+          -57,
+          -50
+        ]
+      ],
+      "properties": {
+        "dt_code": "716",
+        "district": "Tengnoupal",
+        "st_nm": "Manipur",
+        "st_code": "14",
+        "year": "2016_c"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -2,
+          -56,
+          54,
+          -54,
+          -9,
+          58
+        ]
+      ],
+      "properties": {
+        "dt_code": "260",
+        "district": "Ukhrul",
+        "st_nm": "Manipur",
+        "st_code": "14"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -11,
+          9,
+          -53,
+          51,
+          -34,
+          -42,
+          59,
+          60,
+          61,
+          -47
+        ]
+      ],
+      "properties": {
+        "dt_code": "714",
+        "district": "Noney",
+        "st_nm": "Manipur",
+        "st_code": "14",
+        "year": "2016_c"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -41,
+          62,
+          -48,
+          -62,
+          60,
+          -60
+        ]
+      ],
+      "properties": {
+        "dt_code": "715",
+        "district": "Pherzawl",
+        "st_nm": "Manipur",
+        "st_code": "14",
+        "year": "2016_c"
+      }
+    }
+  ]
+}

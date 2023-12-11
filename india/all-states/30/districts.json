@@ -1,0 +1,35 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1
+        ]
+      ],
+      "properties": {
+        "dt_code": "551",
+        "district": "North Goa",
+        "st_code": "30",
+        "st_nm": "Goa"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -1,
+          2
+        ]
+      ],
+      "properties": {
+        "dt_code": "552",
+        "district": "South Goa",
+        "st_code": "30",
+        "st_nm": "Goa"
+      }
+    }
+  ]
+}

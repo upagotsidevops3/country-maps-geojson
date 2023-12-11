@@ -1,0 +1,664 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "properties": {
+        "dt_code": "348",
+        "district": "Bhadrak",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      ],
+      "properties": {
+        "dt_code": "352",
+        "district": "Dhenkanal",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -1,
+          15,
+          16,
+          17,
+          -12,
+          10,
+          -10,
+          18
+        ]
+      ],
+      "properties": {
+        "dt_code": "382",
+        "district": "Jajpur",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      ],
+      "properties": {
+        "dt_code": "392",
+        "district": "Subarnapur",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      ],
+      "properties": {
+        "dt_code": "368",
+        "district": "Nuapada",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -22,
+          32,
+          33,
+          34,
+          35,
+          -30,
+          28,
+          -28,
+          36
+        ]
+      ],
+      "properties": {
+        "dt_code": "345",
+        "district": "Balangir",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -21,
+          37,
+          38,
+          39,
+          -33
+        ]
+      ],
+      "properties": {
+        "dt_code": "349",
+        "district": "Boudh",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -13,
+          -18,
+          16,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47
+        ]
+      ],
+      "properties": {
+        "dt_code": "350",
+        "district": "Cuttack",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -34,
+          -40,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54
+        ]
+      ],
+      "properties": {
+        "dt_code": "359",
+        "district": "Kandhamal",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -39,
+          55,
+          -47,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          -49
+        ]
+      ],
+      "properties": {
+        "dt_code": "367",
+        "district": "Nayagarh",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -46,
+          64,
+          65,
+          66,
+          67,
+          -59,
+          57,
+          -57
+        ]
+      ],
+      "properties": {
+        "dt_code": "362",
+        "district": "Khordha",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -31,
+          -36,
+          34,
+          -55,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75
+        ]
+      ],
+      "properties": {
+        "dt_code": "358",
+        "district": "Kalahandi",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -42,
+          76,
+          77,
+          78
+        ]
+      ],
+      "properties": {
+        "dt_code": "380",
+        "district": "Jagatsinghpur",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -45,
+          43,
+          -43,
+          -79,
+          79,
+          80,
+          65,
+          -65
+        ]
+      ],
+      "properties": {
+        "dt_code": "369",
+        "district": "Puri",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -75,
+          73,
+          -73,
+          81,
+          82,
+          83
+        ]
+      ],
+      "properties": {
+        "dt_code": "397",
+        "district": "Nabarangapur",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -54,
+          84,
+          85,
+          86,
+          -71,
+          69,
+          -69
+        ]
+      ],
+      "properties": {
+        "dt_code": "370",
+        "district": "Rayagada",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -72,
+          -87,
+          87,
+          88,
+          88,
+          89,
+          90,
+          -83,
+          81
+        ]
+      ],
+      "properties": {
+        "dt_code": "363",
+        "district": "Koraput",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -90,
+          91
+        ]
+      ],
+      "properties": {
+        "dt_code": "364",
+        "district": "Malkangiri",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            92
+          ]
+        ],
+        [
+          [
+            -14,
+            -48,
+            -56,
+            -38,
+            -20,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "384",
+        "district": "Angul",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -9,
+          7,
+          -7,
+          102,
+          -77,
+          -41,
+          16,
+          16,
+          -16
+        ]
+      ],
+      "properties": {
+        "dt_code": "360",
+        "district": "Kendrapara",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            103
+          ]
+        ],
+        [
+          [
+            104
+          ]
+        ],
+        [
+          [
+            -52,
+            50,
+            -50,
+            -64,
+            62,
+            -62,
+            60,
+            -60,
+            67,
+            -67,
+            -81,
+            105,
+            106
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "354",
+        "district": "Ganjam",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -53,
+          -107,
+          107,
+          -85
+        ],
+        [
+          -104
+        ],
+        [
+          -105
+        ]
+      ],
+      "properties": {
+        "dt_code": "353",
+        "district": "Gajapati",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          108,
+          109,
+          110,
+          111,
+          112
+        ]
+      ],
+      "properties": {
+        "dt_code": "365",
+        "district": "Mayurbhanj",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -99,
+          97,
+          -97,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119
+        ]
+      ],
+      "properties": {
+        "dt_code": "373",
+        "district": "Sundargarh",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -4,
+          2,
+          -2,
+          -19,
+          -15,
+          -102,
+          100,
+          -100,
+          -120,
+          118,
+          -118,
+          120,
+          -112,
+          110,
+          -110,
+          121
+        ]
+      ],
+      "properties": {
+        "dt_code": "361",
+        "district": "Kendujhar",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -5,
+          -122,
+          -109,
+          122
+        ]
+      ],
+      "properties": {
+        "dt_code": "377",
+        "district": "Balasore",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -116,
+          123,
+          124,
+          125,
+          126
+        ]
+      ],
+      "properties": {
+        "dt_code": "357",
+        "district": "Jharsuguda",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -23,
+          -37,
+          -27,
+          127,
+          -126,
+          128,
+          129,
+          130
+        ]
+      ],
+      "properties": {
+        "dt_code": "347",
+        "district": "Bargarh",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          95,
+          -95,
+          131,
+          -114
+        ],
+        [
+          -93
+        ]
+      ],
+      "properties": {
+        "dt_code": "351",
+        "district": "Deogarh",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -26,
+          24,
+          -24,
+          -131,
+          129,
+          -129,
+          -125,
+          123,
+          -115,
+          -132,
+          -94
+        ]
+      ],
+      "properties": {
+        "dt_code": "371",
+        "district": "Sambalpur",
+        "st_code": "21",
+        "st_nm": "Odisha"
+      }
+    }
+  ]
+}

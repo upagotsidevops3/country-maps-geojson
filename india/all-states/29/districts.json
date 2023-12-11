@@ -1,0 +1,660 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "properties": {
+        "dt_code": "529",
+        "district": "Bidar",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -3,
+          1,
+          -1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "properties": {
+        "dt_code": "538",
+        "district": "Kalaburagi",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      ],
+      "properties": {
+        "dt_code": "527",
+        "district": "Belagavi",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -8,
+          6,
+          -6,
+          17,
+          18,
+          19
+        ]
+      ],
+      "properties": {
+        "dt_code": "635",
+        "district": "Yadgir",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -12,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      ],
+      "properties": {
+        "dt_code": "524",
+        "district": "Bagalkote",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -19,
+          29,
+          30,
+          31,
+          -31,
+          32,
+          33,
+          -22,
+          34
+        ]
+      ],
+      "properties": {
+        "dt_code": "546",
+        "district": "Raichur",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          27,
+          -27,
+          25,
+          -25,
+          23,
+          -23,
+          -34,
+          35,
+          36
+        ]
+      ],
+      "properties": {
+        "dt_code": "543",
+        "district": "Koppal",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -13,
+          -29,
+          -37,
+          37,
+          38,
+          39
+        ]
+      ],
+      "properties": {
+        "dt_code": "537",
+        "district": "Gadag",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -33,
+          30,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          -38,
+          -36
+        ]
+      ],
+      "properties": {
+        "dt_code": "528",
+        "district": "Ballari",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -14,
+          -40,
+          46,
+          47
+        ]
+      ],
+      "properties": {
+        "dt_code": "536",
+        "district": "Dharwad",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          15,
+          -15,
+          -48,
+          48,
+          49,
+          50,
+          51
+        ]
+      ],
+      "properties": {
+        "dt_code": "550",
+        "district": "Uttara Kannada",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -39,
+          -46,
+          52,
+          53,
+          -49,
+          -47
+        ]
+      ],
+      "properties": {
+        "dt_code": "540",
+        "district": "Haveri",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -44,
+          42,
+          -42,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61
+        ]
+      ],
+      "properties": {
+        "dt_code": "533",
+        "district": "Chitradurga",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -45,
+          -62,
+          60,
+          -60,
+          62,
+          63,
+          -53
+        ]
+      ],
+      "properties": {
+        "dt_code": "567",
+        "district": "Davanagere",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -50,
+          -54,
+          -64,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69
+        ]
+      ],
+      "properties": {
+        "dt_code": "547",
+        "district": "Shivamogga",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -51,
+          -70,
+          68,
+          -68,
+          70,
+          71,
+          72
+        ]
+      ],
+      "properties": {
+        "dt_code": "549",
+        "district": "Udupi",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -59,
+          73,
+          74,
+          75,
+          76,
+          76,
+          -71,
+          -67,
+          65,
+          -65,
+          -63
+        ]
+      ],
+      "properties": {
+        "dt_code": "532",
+        "district": "Chikkamagaluru",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          77,
+          78,
+          79,
+          80
+        ]
+      ],
+      "properties": {
+        "dt_code": "630",
+        "district": "Chikkaballapura",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -75,
+          81,
+          82,
+          83,
+          84,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93
+        ]
+      ],
+      "properties": {
+        "dt_code": "539",
+        "district": "Hassan",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -79,
+          94,
+          95,
+          96,
+          97
+        ]
+      ],
+      "properties": {
+        "dt_code": "542",
+        "district": "Kolar",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -80,
+          -98,
+          96,
+          -96,
+          98,
+          99,
+          100,
+          101
+        ]
+      ],
+      "properties": {
+        "dt_code": "526",
+        "district": "Bengaluru Rural",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -72,
+          76,
+          76,
+          -76,
+          -94,
+          92,
+          -92,
+          102,
+          103,
+          104
+        ]
+      ],
+      "properties": {
+        "dt_code": "534",
+        "district": "Dakshina Kannada",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -100,
+          105,
+          106
+        ]
+      ],
+      "properties": {
+        "dt_code": "525",
+        "district": "Bengaluru Urban",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -91,
+          107,
+          108,
+          103,
+          -103
+        ]
+      ],
+      "properties": {
+        "dt_code": "541",
+        "district": "Kodagu",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115
+        ]
+      ],
+      "properties": {
+        "dt_code": "531",
+        "district": "Chamarajanagara",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            116
+          ]
+        ],
+        [
+          [
+            -58,
+            117,
+            -81,
+            -102,
+            118,
+            119,
+            -86,
+            84,
+            84,
+            -84,
+            82,
+            -82,
+            -74
+          ]
+        ],
+        [
+          [
+            -56,
+            120
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "548",
+        "district": "Tumakuru",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -101,
+          -107,
+          121,
+          -115,
+          122,
+          -119
+        ],
+        [
+          -117
+        ]
+      ],
+      "properties": {
+        "dt_code": "631",
+        "district": "Ramanagara",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "MultiPolygon",
+      "arcs": [
+        [
+          [
+            123
+          ]
+        ],
+        [
+          [
+            124
+          ]
+        ],
+        [
+          [
+            -89,
+            87,
+            -87,
+            -120,
+            -123,
+            -114,
+            112,
+            -112,
+            110,
+            110,
+            125
+          ]
+        ]
+      ],
+      "properties": {
+        "dt_code": "544",
+        "district": "Mandya",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -90,
+          -126,
+          110,
+          -110,
+          126,
+          -108
+        ],
+        [
+          -124
+        ],
+        [
+          -125
+        ]
+      ],
+      "properties": {
+        "dt_code": "545",
+        "district": "Mysuru",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -9,
+          -20,
+          -35,
+          -21,
+          -11,
+          127
+        ]
+      ],
+      "properties": {
+        "dt_code": "530",
+        "district": "Vijayapura",
+        "st_code": "29",
+        "st_nm": "Karnataka"
+      }
+    }
+  ]
+}

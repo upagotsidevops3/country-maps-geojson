@@ -1,0 +1,511 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "properties": {
+        "dt_code": "241",
+        "district": "Upper Subansiri",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          12,
+          13,
+          14,
+          15
+        ]
+      ],
+      "properties": {
+        "dt_code": "628",
+        "district": "Anjaw",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      ],
+      "properties": {
+        "dt_code": "229",
+        "district": "Changlang",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          22,
+          23,
+          24
+        ]
+      ],
+      "properties": {
+        "dt_code": "238",
+        "district": "Tawang",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      ],
+      "properties": {
+        "dt_code": "237",
+        "district": "Papum Pare",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -18,
+          38,
+          39,
+          40
+        ]
+      ],
+      "properties": {
+        "dt_code": "239",
+        "district": "Tirap",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ]
+      ],
+      "properties": {
+        "dt_code": "232",
+        "district": "East Siang",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -14,
+          -22,
+          49,
+          50,
+          51
+        ]
+      ],
+      "properties": {
+        "dt_code": "234",
+        "district": "Lohit",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -10,
+          52,
+          -36,
+          53,
+          54,
+          55,
+          56
+        ]
+      ],
+      "properties": {
+        "dt_code": "233",
+        "district": "Kurung Kumey",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -38,
+          57,
+          58
+        ]
+      ],
+      "properties": {
+        "dt_code": "236",
+        "district": "Lower Subansiri",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -24,
+          59,
+          -56,
+          54,
+          -54,
+          -35,
+          60,
+          61
+        ]
+      ],
+      "properties": {
+        "dt_code": "231",
+        "district": "East Kameng",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -25,
+          -62,
+          62,
+          63
+        ]
+      ],
+      "properties": {
+        "dt_code": "242",
+        "district": "West Kameng",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -9,
+          64,
+          -58,
+          -37,
+          -53
+        ]
+      ],
+      "properties": {
+        "dt_code": "677",
+        "district": "Kra Daadi",
+        "st_code": "12",
+        "year": "2015_c",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -21,
+          19,
+          65,
+          -50
+        ]
+      ],
+      "properties": {
+        "dt_code": "678",
+        "district": "Namsai",
+        "st_code": "12",
+        "year": "2014_c",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -40,
+          66
+        ]
+      ],
+      "properties": {
+        "dt_code": "666",
+        "district": "Longding",
+        "st_code": "12",
+        "year": "2012_c",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -46,
+          67,
+          68,
+          69,
+          70,
+          71
+        ]
+      ],
+      "properties": {
+        "dt_code": "240",
+        "district": "Upper Siang",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -7,
+          72,
+          73,
+          74,
+          75,
+          76,
+          -44,
+          77,
+          78
+        ]
+      ],
+      "properties": {
+        "dt_code": "719",
+        "district": "Lower Siang",
+        "st_code": "12",
+        "year": "2018",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -71,
+          79,
+          80
+        ]
+      ],
+      "properties": {
+        "dt_code": "257",
+        "district": "Upper Dibang Valley",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -15,
+          -52,
+          81,
+          -49,
+          47,
+          -47,
+          -72,
+          -81,
+          82
+        ]
+      ],
+      "properties": {
+        "dt_code": "235",
+        "district": "Lower Dibang Valley",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -45,
+          -77,
+          83,
+          84,
+          -68
+        ]
+      ],
+      "properties": {
+        "dt_code": "679",
+        "district": "Siang",
+        "st_code": "12",
+        "year": "2015_c",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -12,
+          85,
+          -69,
+          -85,
+          86,
+          87
+        ]
+      ],
+      "properties": {
+        "dt_code": "725",
+        "district": "Shi Yomi",
+        "st_code": "12",
+        "year": "2018",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -34,
+          32,
+          -32,
+          30,
+          -30,
+          28,
+          -28,
+          88,
+          -63,
+          -61
+        ]
+      ],
+      "properties": {
+        "dt_code": "723",
+        "district": "Pakke Kessang",
+        "st_code": "12",
+        "year": "2018",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -1,
+          87,
+          -87,
+          -84,
+          -76,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95
+        ]
+      ],
+      "properties": {
+        "dt_code": "243",
+        "district": "West Siang",
+        "st_code": "12",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -6,
+          4,
+          -4,
+          2,
+          2,
+          -2,
+          -96,
+          94,
+          -94,
+          92,
+          -92,
+          90,
+          -90,
+          -75,
+          73,
+          -73
+        ]
+      ],
+      "properties": {
+        "dt_code": "724",
+        "district": "Lepa Rada",
+        "st_code": "12",
+        "year": "2018",
+        "st_nm": "Arunachal Pradesh"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -8,
+          -79,
+          96,
+          -26,
+          -59,
+          -65
+        ]
+      ],
+      "properties": {
+        "dt_code": "718",
+        "district": "Kamle",
+        "st_code": "12",
+        "year": "2018",
+        "st_nm": "Arunachal Pradesh"
+      }
+    }
+  ]
+}

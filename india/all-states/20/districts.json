@@ -1,0 +1,469 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "properties": {
+        "dt_code": "352",
+        "district": "Sahibganj",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -2,
+          3,
+          4,
+          5,
+          6
+        ]
+      ],
+      "properties": {
+        "dt_code": "330",
+        "district": "Godda",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -1,
+          7,
+          8,
+          -5,
+          3
+        ]
+      ],
+      "properties": {
+        "dt_code": "337",
+        "district": "Pakur",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          9,
+          10,
+          11,
+          12,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      ],
+      "properties": {
+        "dt_code": "329",
+        "district": "Giridih",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -6,
+          -9,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ]
+      ],
+      "properties": {
+        "dt_code": "326",
+        "district": "Dumka",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -10,
+          25,
+          -24,
+          22,
+          -22,
+          26,
+          -21,
+          27
+        ]
+      ],
+      "properties": {
+        "dt_code": "324",
+        "district": "Deoghar",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          28,
+          29,
+          30,
+          31
+        ]
+      ],
+      "properties": {
+        "dt_code": "338",
+        "district": "Palamu",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -30,
+          32,
+          33,
+          34,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      ],
+      "properties": {
+        "dt_code": "323",
+        "district": "Chatra",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -32,
+          40,
+          41
+        ]
+      ],
+      "properties": {
+        "dt_code": "328",
+        "district": "Garhwa",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -11,
+          -28,
+          20,
+          26,
+          -21,
+          -20,
+          42,
+          43
+        ]
+      ],
+      "properties": {
+        "dt_code": "333",
+        "district": "Jamtara",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -14,
+          12,
+          12,
+          -12,
+          -44,
+          44,
+          45
+        ]
+      ],
+      "properties": {
+        "dt_code": "325",
+        "district": "Dhanbad",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -31,
+          -40,
+          46,
+          47,
+          48,
+          49,
+          50,
+          -41
+        ]
+      ],
+      "properties": {
+        "dt_code": "335",
+        "district": "Latehar",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -15,
+          -46,
+          51,
+          52,
+          53,
+          54
+        ]
+      ],
+      "properties": {
+        "dt_code": "322",
+        "district": "Bokaro",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -53,
+          55,
+          56,
+          57
+        ]
+      ],
+      "properties": {
+        "dt_code": "607",
+        "district": "Ramgarh",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -39,
+          58,
+          -57,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          -47
+        ]
+      ],
+      "properties": {
+        "dt_code": "339",
+        "district": "Ranchi",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -49,
+          47,
+          -66,
+          66
+        ]
+      ],
+      "properties": {
+        "dt_code": "336",
+        "district": "Lohardaga",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -50,
+          -67,
+          -65,
+          67,
+          68,
+          69,
+          70
+        ]
+      ],
+      "properties": {
+        "dt_code": "331",
+        "district": "Gumla",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -64,
+          62,
+          -62,
+          71,
+          72,
+          73,
+          -68
+        ]
+      ],
+      "properties": {
+        "dt_code": "606",
+        "district": "Khunti",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -61,
+          74,
+          75,
+          76,
+          77,
+          -72
+        ]
+      ],
+      "properties": {
+        "dt_code": "341",
+        "district": "Saraikela-Kharsawan",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -76,
+          78,
+          79
+        ]
+      ],
+      "properties": {
+        "dt_code": "357",
+        "district": "East Singhbhum",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -73,
+          -78,
+          80,
+          81
+        ]
+      ],
+      "properties": {
+        "dt_code": "343",
+        "district": "West Singhbhum",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -69,
+          -74,
+          -82,
+          82
+        ]
+      ],
+      "properties": {
+        "dt_code": "342",
+        "district": "Simdega",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -17,
+          83,
+          84
+        ]
+      ],
+      "properties": {
+        "dt_code": "334",
+        "district": "Koderma",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -16,
+          54,
+          -54,
+          -58,
+          -59,
+          -38,
+          36,
+          -36,
+          34,
+          34,
+          -34,
+          85,
+          -84
+        ]
+      ],
+      "properties": {
+        "dt_code": "332",
+        "district": "Hazaribagh",
+        "st_code": "20",
+        "st_nm": "Jharkhand"
+      }
+    }
+  ]
+}

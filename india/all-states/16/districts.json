@@ -1,0 +1,148 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "properties": {
+        "dt_code": "270",
+        "district": "North Tripura",
+        "st_code": "16",
+        "st_nm": "Tripura"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          1,
+          -1,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "properties": {
+        "dt_code": "269",
+        "district": "Dhalai",
+        "st_code": "16",
+        "st_nm": "Tripura"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      ],
+      "properties": {
+        "dt_code": "707",
+        "district": "Sipahijala",
+        "st_code": "16",
+        "year": "update2014",
+        "st_nm": "Tripura"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -6,
+          14,
+          15,
+          -14,
+          16
+        ]
+      ],
+      "properties": {
+        "dt_code": "654",
+        "district": "Gomati",
+        "st_code": "16",
+        "year": "update2014",
+        "st_nm": "Tripura"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -7,
+          -17,
+          -13,
+          17,
+          18
+        ]
+      ],
+      "properties": {
+        "dt_code": "652",
+        "district": "Khowai",
+        "st_code": "16",
+        "year": "update2014",
+        "st_nm": "Tripura"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -12,
+          19,
+          -18
+        ]
+      ],
+      "properties": {
+        "dt_code": "272",
+        "district": "West Tripura",
+        "st_code": "16",
+        "st_nm": "Tripura"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -10,
+          -16,
+          20
+        ]
+      ],
+      "properties": {
+        "dt_code": "271",
+        "district": "South Tripura",
+        "st_code": "16",
+        "st_nm": "Tripura"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -3,
+          -9,
+          21
+        ]
+      ],
+      "properties": {
+        "dt_code": "710",
+        "district": "Unokoti",
+        "st_code": "16",
+        "year": "update2014",
+        "st_nm": "Tripura"
+      }
+    }
+  ]
+}

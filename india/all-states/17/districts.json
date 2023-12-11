@@ -1,0 +1,208 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "properties": {
+        "dt_code": "276",
+        "district": "Ribhoi",
+        "st_code": "17",
+        "st_nm": "Meghalaya"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      ],
+      "properties": {
+        "dt_code": "279",
+        "district": "West Khasi Hills",
+        "st_code": "17",
+        "st_nm": "Meghalaya"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          14,
+          15
+        ]
+      ],
+      "properties": {
+        "dt_code": "657",
+        "district": "East Jaintia Hills",
+        "st_code": "17",
+        "year": "update2014",
+        "st_nm": "Meghalaya"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -2,
+          16,
+          17,
+          18,
+          -5
+        ]
+      ],
+      "properties": {
+        "dt_code": "274",
+        "district": "East Khasi Hills",
+        "st_code": "17",
+        "st_nm": "Meghalaya"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -7,
+          19,
+          20,
+          21,
+          22
+        ]
+      ],
+      "properties": {
+        "dt_code": "277",
+        "district": "South Garo Hills",
+        "st_code": "17",
+        "st_nm": "Meghalaya"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      ],
+      "properties": {
+        "dt_code": "278",
+        "district": "West Garo Hills",
+        "st_code": "17",
+        "st_nm": "Meghalaya"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -11,
+          9,
+          -9,
+          7,
+          -23,
+          -28,
+          28
+        ]
+      ],
+      "properties": {
+        "dt_code": "273",
+        "district": "East Garo Hills",
+        "st_code": "17",
+        "st_nm": "Meghalaya"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -1,
+          29,
+          -16,
+          30,
+          -17
+        ]
+      ],
+      "properties": {
+        "dt_code": "275",
+        "district": "West Jaintia Hills",
+        "st_code": "17",
+        "st_nm": "Meghalaya"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -6,
+          -19,
+          31,
+          -20
+        ]
+      ],
+      "properties": {
+        "dt_code": "658",
+        "district": "South West Khasi Hills",
+        "st_code": "17",
+        "year": "update2014",
+        "st_nm": "Meghalaya"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -13,
+          11,
+          -29,
+          -27,
+          32
+        ]
+      ],
+      "properties": {
+        "dt_code": "656",
+        "district": "North Garo Hills",
+        "st_code": "17",
+        "year": "update2014",
+        "st_nm": "Meghalaya"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          -25,
+          33
+        ]
+      ],
+      "properties": {
+        "dt_code": "663",
+        "district": "South West Garo Hills",
+        "st_code": "17",
+        "year": "update2014",
+        "st_nm": "Meghalaya"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "properties": {
+        "dt_code": "9",
+        "district": "Leh ladakh",
+        "st_nm": "Ladakh",
+        "st_code": "37"
+      }
+    },
+    {
+      "type": "Polygon",
+      "arcs": [
+        [
+          4,
+          -1,
+          5,
+          -3
+        ]
+      ],
+      "properties": {
+        "dt_code": "6",
+        "district": "Kargil",
+        "st_nm": "Ladakh",
+        "st_code": "37"
+      }
+    }
+  ]
+}
